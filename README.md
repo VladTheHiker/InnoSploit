@@ -24,7 +24,7 @@ Feel free to reach out via LinkedIn:
 1. Clone the repository.
 2. Ensure both `innosploit.py` and `cat.jpeg` are in the same directory.  
    > You may use any JPEG image, just make sure it's named `cat.jpeg`.
-3. Run the script:
+3. Run the script ( No need for arguments! The script is interactive and will prompt you for everything required)
 
 ```bash
 python3 innosploit.py
